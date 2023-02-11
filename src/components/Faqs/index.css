@@ -1,0 +1,11 @@
+/* Write your code here. */
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.main-heading {
+  color: #cb8805;
+  font-family: 'ROboto';
+}

@@ -1,0 +1,27 @@
+/* Write your code here. */
+li {
+  border: 1px solid #d7dae6;
+  list-style-type: none;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.top-box {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+.question {
+  color: #52606d;
+  font-weight: 600;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.image {
+  background-color: transparent;
+  border: 0px;
+}
+p {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+}
